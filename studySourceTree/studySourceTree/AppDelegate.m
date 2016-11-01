@@ -16,7 +16,13 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    // 新打了一个补丁1.0.1.1
+   
+    // 开发1.0.1的功能
+    // 完成1.0.1的功能
+    
+    // 建立1.0.2的发布版本
+    // 完成1.0.2的发布版本
     return YES;
 }
 
