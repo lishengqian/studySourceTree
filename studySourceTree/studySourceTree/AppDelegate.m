@@ -16,6 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    // 新打了一个补丁1.0.1.1
    
     // 开发1.0.1的功能
     // 完成1.0.1的功能
