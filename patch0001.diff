@@ -1,0 +1,30 @@
+From 50d43770df3bf37b6ff400344cf563c78da1533f Mon Sep 17 00:00:00 2001
+From: Money <563628989@qq.com>
+Date: Tue, 1 Nov 2016 15:23:07 +0800
+Subject: [PATCH] =?UTF-8?q?=E5=AE=8C=E6=88=901.4=E7=9A=84=E5=8A=9F?=
+ =?UTF-8?q?=E8=83=BD?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ studySourceTree/studySourceTree/AppDelegate.m | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/studySourceTree/studySourceTree/AppDelegate.m b/studySourceTree/studySourceTree/AppDelegate.m
+index d0a329d..5084f93 100644
+--- a/studySourceTree/studySourceTree/AppDelegate.m
++++ b/studySourceTree/studySourceTree/AppDelegate.m
+@@ -33,6 +33,9 @@
+     // 完成1.0.3的发布版本
+     
+     // 新打了一个补丁1.0.1.2
++    
++    // 建立1.4的功能
++    // 完成1.4的功能
+     return YES;
+ }
+ 
+-- 
+2.8.1
+
